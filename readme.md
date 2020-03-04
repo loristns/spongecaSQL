@@ -8,9 +8,9 @@
     <img src="https://github.com/the-new-sky/spongecaSQL/raw/master/spongebob.jpg" alt="Mocking Spongebob meme">
 </p>
 
-**SQL** is great but it is not *case-sensistive*. Which means that keywords and objects can be called in UPPERCASE or in <sub>lowercase</sub>.
+**SQL** is great but it is not *case-sensistive*. Which means that keywords and objects can be called in UPPERCASE or in <sub>lowercase</sub> .
 
-That's bad. It doesn't discourage consistency since some developer will write `SELECT`, `select` or even `Select`.
+That's bad. It discourage consistency since some developer will write `SELECT`, `select` or even `Select`.
 
 Here is a standard to fix this issue : **🧽 SpOnGeCasE**.
 
